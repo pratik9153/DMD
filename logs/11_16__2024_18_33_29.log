@@ -1,0 +1,5 @@
+[ 2024-11-16 18:33:29,158 ] 23 root - INFO - Logger initialized successfully. 
+[ 2024-11-16 18:33:30,580 ] 25 root - INFO - Data Ingestion Method start 
+[ 2024-11-16 18:33:30,772 ] 29 root - INFO - Dataset read as pandas DtaaFrames 
+[ 2024-11-16 18:33:31,426 ] 35 root - INFO - train test split 
+[ 2024-11-16 18:33:32,160 ] 42 root - INFO - Ingestion of data is complete 
